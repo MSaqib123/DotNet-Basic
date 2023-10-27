@@ -1,0 +1,28 @@
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\bin\Debug\netcoreapp3.1\_4_Access_Modifire.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_4_Access_Modifire\obj\Debug\netcoreapp3.1\_4_Access_Modifire.genruntimeconfig.cache

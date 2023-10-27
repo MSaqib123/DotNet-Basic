@@ -1,0 +1,28 @@
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\bin\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_5_Encapsulation_(getter_setter)\obj\Debug\netcoreapp3.1\_5_Encapsulation_(getter_setter).genruntimeconfig.cache

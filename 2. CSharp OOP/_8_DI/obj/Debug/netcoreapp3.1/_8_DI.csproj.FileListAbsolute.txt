@@ -1,0 +1,28 @@
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.exe
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.deps.json
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.runtimeconfig.json
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.runtimeconfig.dev.json
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.dll
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.pdb
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.csproj.AssemblyReference.cache
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.AssemblyInfoInputs.cache
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.AssemblyInfo.cs
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.csproj.CoreCompileInputs.cache
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.dll
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.pdb
+E:\1. Aptech\C_Sharp\C#\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\bin\Debug\netcoreapp3.1\_8_DI.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_DI\obj\Debug\netcoreapp3.1\_8_DI.genruntimeconfig.cache

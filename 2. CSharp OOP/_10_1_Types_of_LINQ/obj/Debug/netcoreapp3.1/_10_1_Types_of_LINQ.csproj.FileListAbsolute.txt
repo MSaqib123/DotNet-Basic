@@ -1,0 +1,28 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.genruntimeconfig.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.exe
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.deps.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.dev.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.AssemblyReference.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfoInputs.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfo.cs
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.CoreCompileInputs.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.genruntimeconfig.cache

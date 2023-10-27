@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\bin\Debug\netcoreapp3.1\_17_Algorithms.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_17_Algorithms\obj\Debug\netcoreapp3.1\_17_Algorithms.genruntimeconfig.cache

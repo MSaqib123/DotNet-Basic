@@ -1,0 +1,28 @@
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\bin\Debug\netcoreapp3.1\_6_Polymorephism.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_6_Polymorephism\obj\Debug\netcoreapp3.1\_6_Polymorephism.genruntimeconfig.cache

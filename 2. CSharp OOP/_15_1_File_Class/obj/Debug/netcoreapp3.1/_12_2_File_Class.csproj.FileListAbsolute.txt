@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\bin\Debug\netcoreapp3.1\_12_2_File_Class.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_2_File\obj\Debug\netcoreapp3.1\_12_2_File_Class.genruntimeconfig.cache

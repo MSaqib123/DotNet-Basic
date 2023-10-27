@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_4_Access_Modifire/1.0.0": {
+        "runtime": {
+          "_4_Access_Modifire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_4_Access_Modifire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

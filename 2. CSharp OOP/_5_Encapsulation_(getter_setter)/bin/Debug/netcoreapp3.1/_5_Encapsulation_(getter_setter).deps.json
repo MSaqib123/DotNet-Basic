@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_5_Encapsulation_(getter_setter)/1.0.0": {
+        "runtime": {
+          "_5_Encapsulation_(getter_setter).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_5_Encapsulation_(getter_setter)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

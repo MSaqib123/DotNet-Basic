@@ -1,0 +1,28 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.genruntimeconfig.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.exe
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.deps.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.runtimeconfig.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.runtimeconfig.dev.json
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.dll
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\bin\Debug\netcoreapp3.1\_13_Delegates.pdb
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.csproj.AssemblyReference.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.AssemblyInfoInputs.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.AssemblyInfo.cs
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.csproj.CoreCompileInputs.cache
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.dll
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.pdb
+F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_13_Delegates\obj\Debug\netcoreapp3.1\_13_Delegates.genruntimeconfig.cache

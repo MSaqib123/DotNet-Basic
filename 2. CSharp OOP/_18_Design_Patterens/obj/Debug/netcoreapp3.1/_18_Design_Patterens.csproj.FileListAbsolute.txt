@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\bin\Debug\netcoreapp3.1\_18_Design_Patterens.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_18_Design_Patterens\obj\Debug\netcoreapp3.1\_18_Design_Patterens.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\bin\Debug\netcoreapp3.1\_9_Lamda_Expression.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_Lamda_Expression\obj\Debug\netcoreapp3.1\_9_Lamda_Expression.genruntimeconfig.cache

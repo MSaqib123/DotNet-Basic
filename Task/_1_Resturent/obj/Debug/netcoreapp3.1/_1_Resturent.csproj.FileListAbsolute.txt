@@ -1,0 +1,14 @@
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.exe
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.deps.json
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.runtimeconfig.json
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.runtimeconfig.dev.json
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.dll
+E:\Asp.net MVC 3.1\Task\_1_Resturent\bin\Debug\netcoreapp3.1\_1_Resturent.pdb
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.csproj.AssemblyReference.cache
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.AssemblyInfoInputs.cache
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.AssemblyInfo.cs
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.csproj.CoreCompileInputs.cache
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.dll
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.pdb
+E:\Asp.net MVC 3.1\Task\_1_Resturent\obj\Debug\netcoreapp3.1\_1_Resturent.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.exe
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.deps.json
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.runtimeconfig.json
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.runtimeconfig.dev.json
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.dll
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.pdb
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.csproj.AssemblyReference.cache
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.AssemblyInfoInputs.cache
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.AssemblyInfo.cs
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.csproj.CoreCompileInputs.cache
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.dll
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.pdb
+E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.genruntimeconfig.cache

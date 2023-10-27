@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\bin\Debug\netcoreapp3.1\_8_1_List_+_Class.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_8_1_List_+_Class\obj\Debug\netcoreapp3.1\_8_1_List_+_Class.genruntimeconfig.cache

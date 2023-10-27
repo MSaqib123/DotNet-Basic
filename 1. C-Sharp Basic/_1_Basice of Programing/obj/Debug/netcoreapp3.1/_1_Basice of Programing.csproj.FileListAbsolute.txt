@@ -1,0 +1,42 @@
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.exe
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.deps.json
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.json
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.dev.json
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.AssemblyReference.cache
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfoInputs.cache
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfo.cs
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.CoreCompileInputs.cache
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\Asp.net MVC 3.1\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.genruntimeconfig.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.genruntimeconfig.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.exe
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.deps.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.runtimeconfig.dev.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\bin\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.AssemblyReference.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfoInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.AssemblyInfo.cs
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.csproj.CoreCompileInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_1_Basice of Programing\obj\Debug\netcoreapp3.1\_1_Basice of Programing.genruntimeconfig.cache

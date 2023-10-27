@@ -1,0 +1,28 @@
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\bin\Debug\netcoreapp3.1\_3_Inharitance.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_3_Inharitance\obj\Debug\netcoreapp3.1\_3_Inharitance.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.exe
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.deps.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.runtimeconfig.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.runtimeconfig.dev.json
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.csproj.AssemblyReference.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.AssemblyInfoInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.AssemblyInfo.cs
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.csproj.CoreCompileInputs.cache
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.dll
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.pdb
+E:\1. C#_Console + OOP\C# _ Farhan Sir\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.genruntimeconfig.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\bin\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_7_1_Class_Metod_Seald\obj\Debug\netcoreapp3.1\_7_1_Class_Metod_Seald.genruntimeconfig.cache

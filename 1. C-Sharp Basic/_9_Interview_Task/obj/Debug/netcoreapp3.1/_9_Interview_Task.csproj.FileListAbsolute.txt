@@ -1,0 +1,28 @@
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.exe
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.deps.json
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.json
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.dev.json
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.dll
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.AssemblyReference.cache
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfoInputs.cache
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfo.cs
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.CoreCompileInputs.cache
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.dll
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+E:\MyLearning\Asp.Net\2. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.genruntimeconfig.cache
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.exe
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.deps.json
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.json
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.dev.json
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.dll
+E:\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.AssemblyReference.cache
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfoInputs.cache
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfo.cs
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.CoreCompileInputs.cache
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.dll
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.genruntimeconfig.cache

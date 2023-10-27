@@ -1,0 +1,14 @@
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.exe
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.deps.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.runtimeconfig.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.runtimeconfig.dev.json
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\bin\Debug\netcoreapp3.1\_7_2_Array_Methods.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.csproj.AssemblyReference.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.AssemblyInfoInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.AssemblyInfo.cs
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.csproj.CoreCompileInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\1. C-Sharp Basic\_7_2_Array_Methods\obj\Debug\netcoreapp3.1\_7_2_Array_Methods.genruntimeconfig.cache

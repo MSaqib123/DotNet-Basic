@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_6_Polymorephism/1.0.0": {
+        "runtime": {
+          "_6_Polymorephism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_6_Polymorephism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

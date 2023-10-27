@@ -1,0 +1,14 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\bin\Debug\netcoreapp3.1\_16_Data_Structures.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_16_Data_Structures\obj\Debug\netcoreapp3.1\_16_Data_Structures.genruntimeconfig.cache

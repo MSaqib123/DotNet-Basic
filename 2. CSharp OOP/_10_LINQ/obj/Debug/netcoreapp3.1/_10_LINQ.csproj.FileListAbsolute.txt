@@ -1,0 +1,28 @@
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.exe
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.deps.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.runtimeconfig.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.runtimeconfig.dev.json
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.csproj.AssemblyReference.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.AssemblyInfoInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.AssemblyInfo.cs
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.dll
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.pdb
+C:\Users\m4357\Desktop\Chat GPT\2. C#\1. Basic C#\1. C#_Console + OOP\2. CSharp OOP\_9_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.genruntimeconfig.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.exe
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.deps.json
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.runtimeconfig.json
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.runtimeconfig.dev.json
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\bin\Debug\netcoreapp3.1\_10_LINQ.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.csproj.AssemblyReference.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.AssemblyInfoInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.AssemblyInfo.cs
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.csproj.CoreCompileInputs.cache
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.dll
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.pdb
+E:\1. Aptech\Asp.Net\2. Dot Net\2. CSharp OOP\_10_LINQ\obj\Debug\netcoreapp3.1\_10_LINQ.genruntimeconfig.cache

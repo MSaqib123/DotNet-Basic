@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_9_3_Path_Class_Methods/1.0.0": {
+        "runtime": {
+          "_9_3_Path_Class_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_9_3_Path_Class_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
