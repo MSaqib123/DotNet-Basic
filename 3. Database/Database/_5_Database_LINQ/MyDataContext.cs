@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _5_Database_LINQ
 {
-    public class MyDataContext: DataContext
-    {
-    }
+    //public class MyDataContext: DataContext
+    //{
+    //}
 }

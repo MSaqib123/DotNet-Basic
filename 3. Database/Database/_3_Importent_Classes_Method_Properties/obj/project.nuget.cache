@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qSLqZ3CXSjzaqipjhqlfI0A5BxHBGPkR5VIumlZ+v6h4ky5wsyPz4+D50ento5XNopw5Gmo5zgMUsrnyEOyjMA==",
+  "dgSpecHash": "tN46WUMDtZWcoYV0/dd7/I++p+M2xUALCMNO0aNvrG8WqciWziI7ghHOjE4WxbeD9N+XC0Xk9DKoysqjv/FPsg==",
   "success": true,
-  "projectFilePath": "F:\\E drive\\My Learning\\1. 1st Target\\2. Dot Net\\3. Database\\Database\\_3_Importent_Classes_Method_Properties\\_3_Importent_Classes_Method_Properties.csproj",
+  "projectFilePath": "G:\\Dot Net\\3. Database\\Database\\_3_Importent_Classes_Method_Properties\\_3_Importent_Classes_Method_Properties.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m4357\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\m4357\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

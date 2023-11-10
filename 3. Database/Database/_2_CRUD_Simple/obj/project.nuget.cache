@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oRyJvk47CgcpAzdz2c6jdzBwrc2BV5O4eE8tBGB+cgBiwlxgHSyyXKASHNiKJrhryyxTT7m201ap7tJ5NitjZg==",
+  "dgSpecHash": "eSXLRjlAmJKghUAOn7csQKR/q84MCZju0ytfrj9WIsgzddTmJstW3uGrYIeGCemtZvafGLcTxtlXQCO9yf0mkg==",
   "success": true,
-  "projectFilePath": "F:\\E drive\\My Learning\\1. 1st Target\\2. Dot Net\\3. Database\\Database\\_2_CRUD_Simple\\_2_CRUD_Simple.csproj",
+  "projectFilePath": "G:\\Dot Net\\3. Database\\Database\\_2_CRUD_Simple\\_2_CRUD_Simple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m4357\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\m4357\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
