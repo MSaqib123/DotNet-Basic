@@ -57,6 +57,47 @@ namespace _7_2_Array_Tasks
 
     internal class Program
     {
+        //___________ Factorial and PRime Nubmer __________________
+        #region Fact and PrimeNumber
+        static bool IsPrime(int num)
+        {
+            if (num < 2)
+            {
+                return false;
+            }
+
+            for (int i = 2; i <= Math.Sqrt(num); i++)
+            {
+                if (num % i == 0)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        static int[] Factorize(int num)
+        {
+            int[] factors = new int[num / 2]; // The maximum number of factors won't exceed num/2
+
+            int factorIndex = 0;
+
+            for (int i = 2; i <= num; i++)
+            {
+                while (num % i == 0)
+                {
+                    factors[factorIndex++] = i;
+                    num /= i;
+                }
+            }
+
+            Array.Resize(ref factors, factorIndex); // Resize the array to fit the actual number of factors
+            return factors;
+        }
+        #endregion
+        //__________________________________________________
+
         //composit number function  --> task 9
         static bool IsComposite(int n)
         {
@@ -84,24 +125,19 @@ namespace _7_2_Array_Tasks
         static void Main(string[] args)
         {
             //___________________________ Interview Task ____________________________
-            goto Task0;
-
             //_________________ 1. Task 1 ________________
             //Write a program.  if take 0 then print 1 ,  if tale 1 then print 0
             //with out if condition
-            Task0:
             #region 0_1 value
             int aNumber = 0;          //0            // 1
             int result = 1- aNumber;   // 1-0 = 1     // 1-1 = 0 
 
             Console.WriteLine(result);
             #endregion
-            goto end;
 
 
             //_________________ 1. Task 1 ________________
             //Write a program in C# to find the Similar Values in Array 
-            Task1:
             #region similar_Values
             int[] Array1 = { 42, 42, 99, 42, 99, 99, 42, 41, 91 };
             List<int> similarValues = new List<int>();
@@ -120,18 +156,45 @@ namespace _7_2_Array_Tasks
 
         
             // Print out the similar values
-            foreach (int value in similarValues)
+            foreach (int value in similarValues.Distinct())
             {
                 Console.WriteLine(value);
             }
 
-        
+            var uniqueResult = similarValues.Distinct().ToList();
+            uniqueResult.ForEach(x =>
+            {
+                Console.WriteLine(x);
+            });
+
+
+            //_____ using Linq ____
+
+            int[] array = { 5, 8, 3, 1, 7, 9, 2, 5, 8 };
+
+            var duplicateValues = array
+                .GroupBy(x => x)
+                .Where(group => group.Count() > 1)
+                .Select(group => group.Key)
+                .ToArray();
+
+            if (duplicateValues.Length > 0)
+            {
+                Console.WriteLine("Duplicate values in the array:");
+                foreach (var value in duplicateValues)
+                {
+                    Console.WriteLine(value);
+                }
+            }
+            else
+            {
+                Console.WriteLine("No duplicate values found in the array.");
+            }
             #endregion
-            goto end;
+
 
             //_________________ 2. Task 2 ________________
             //Write a program in C# to find the Minum , Maximum Values
-            Task2:
             #region Max , Minimum
             int[] Array2 = { 5, 8, 3, 1, 7, 9, 2 };
 
@@ -152,11 +215,27 @@ namespace _7_2_Array_Tasks
 
             Console.WriteLine("Minimum value: " + min);
             Console.WriteLine("Maximum value: " + max);
+
+
+            foreach (var item in Array2)
+            {
+                if (item < min)
+                {
+                    min = item;
+                }
+                if (item > max)
+                {
+                    max = item;
+                }
+            }
+
+            Console.WriteLine(min);
+            Console.WriteLine(max);
             #endregion
 
             //_________________ 3. Task 3 ________________
             //Find Even Odd Number from Array
-            Task3:
+
             #region Even Odd number
             int[] number = { 1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 };
             int evenCount = 0;
@@ -208,12 +287,20 @@ namespace _7_2_Array_Tasks
             {
                 Console.Write(number1 + " ");
             }
+
+
+            //________________ shortest Way _____________
+            Console.WriteLine("Even numbers:");
+            Console.WriteLine(string.Join(", ", array.Where(item => item % 2 == 0)));
+
+            Console.WriteLine("Odd numbers:");
+            Console.WriteLine(string.Join(", ", array.Where(item => item % 2 == 1)));
+
             #endregion
-            goto end;
+
 
             //_________________ 4. Task 4 ________________
             //Write a program in C# to find the sum of all even numbers in an array of integers.
-            Task4:
             #region Sum of all Even Number , Odd number
             int[] array1 = { 1, 2, 3, 4, 5, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 };
             int sum = 0;
@@ -225,24 +312,26 @@ namespace _7_2_Array_Tasks
                 }
             }
             Console.WriteLine("sum of Even Number : "+ sum);
+
+            //______________ smallest Code _________________
+            var sumOfEven = string.Join(",", array.Where(item => item % 2 == 0).Sum());
+            Console.WriteLine(sumOfEven);
             #endregion
 
             //_________________ 5. Task 5 ________________
             //Write a program To Revers a String
-            Task5:
             #region Reverse_String
             string input = "Pakistan";//"Hello word";
             char[] charArray = input.ToCharArray();  //basic it will Divide into parts and Store Values in Array form
             Array.Reverse(charArray); //this Will Revers Above Divide array
             string reversed = new string(charArray);   //again convert  ReverseArray to string
             Console.WriteLine("The Reversed String is : " + reversed);
-        #endregion
+            #endregion  
 
             //_________________ 6. Task 6 ________________
             //Write a program in C# to check if a string is a palindrome.   
             //reverse krna par bhee same String === palindrome
             //Madam , PHP , Laval,racecar , minim ,   Noon , deep , wow, my gym , i did did i ,  never odd or even , borrow or rob
-            Task6:
             #region Palindromes
             string input1 = "PHP";//"racecar";
             char[] charArray1 = input1.ToCharArray();
@@ -260,15 +349,16 @@ namespace _7_2_Array_Tasks
 
             //_________________ 7. Task 7 ________________
             //Write a program  to  Find /check Prime Numbers ?
-            //Prime Number :=  a number which can be divided by    1  and its own number ,  2,3,5,7,11,13,17,19 .....
-            Task7:
+            //Prime Number :=  a number which can be divided by    1  and its own number ,  2,3,5,7,11,13,17,19 .....            
             #region Prime_Number
+            //_______________________ Basic Program _______________
+            #region Basic Program
             int num = 7;
             bool isPrime = true;
             //Console.WriteLine("SQure root of : " + num + " is " + Math.Sqrt(num) );
             for (int i = 2; i <= Math.Sqrt(num); i++)
             {
-                if (num % i == 0) 
+                if (num % i == 0)
                 {
                     isPrime = false;
                     break;
@@ -292,10 +382,35 @@ namespace _7_2_Array_Tasks
             }
             #endregion
 
+            //_______________________ Advance Program _______________
+            #region AdvanceProgram
+            Console.Write("Enter a positive integer: ");
+            int numbersFac = int.Parse(Console.ReadLine());
+
+            if (numbersFac <= 1)
+            {
+                Console.WriteLine("Please enter a positive integer greater than 1.");
+            }
+            else
+            {
+                Console.WriteLine($"Factors of {numbersFac}: {string.Join(", ", Factorize(numbersFac))}");
+
+                if (IsPrime(numbersFac))
+                {
+                    Console.WriteLine($"{numbersFac} is a prime number.");
+                }
+                else
+                {
+                    Console.WriteLine($"{numbersFac} is not a prime number.");
+                }
+            }
+            #endregion
+
+            #endregion
+
             //_________________ 8. Task 8 ________________
             //Write a program in C# to find the factorial of a number.  
             //_ Factorial number    :=   5 * 4 * 3 * 2 * 1   = factorial of 5 =  120
-            Task8:
             #region Factorial
             int num1 = 5;
             int factorial = 1;
@@ -310,7 +425,6 @@ namespace _7_2_Array_Tasks
             //_________________ 9. Task 9 ________________
             //Write a program in C# to find the Composite number.  
             //_ Factorial number    :=   a number  can divide by its own self and as wel as by other number
-            Task9:
             #region 
             int n = 15;
             if (IsComposite(n))
@@ -321,13 +435,11 @@ namespace _7_2_Array_Tasks
             {
                 Console.WriteLine(n + " is not a composite number");
             }
-            goto end;
             #endregion
 
             
             //_________________ 10. Task 10 _______________________
             //Swap 2 values with out makieng  3rd Variable 
-            Task10:
             #region Swap_Values
             //___ 1. Swap Values ___
             int a = 5;
@@ -362,7 +474,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 10.1 Task 10.1 _______________________
             //Swap 2 values ___ of Array ______
-            Task10_1:
+            
             #region array_Swap
 
             #region 1st_Way by index
@@ -461,7 +573,7 @@ namespace _7_2_Array_Tasks
 
             //________________  11. Task 11 ______________________
             //check Even Odd number 
-            Task11:
+            
             #region Check Even Odd Values
             Console.WriteLine("\n\n\n");
             var v1 = 9;//10; //even , odd
@@ -487,7 +599,7 @@ namespace _7_2_Array_Tasks
             //by dividing the list in half and checking whether the number is in the first or second half.
 
             //This code shows how to find a value in a sorted list of numbers quickly and efficiently using the binary search algorithm in C#.
-            Task12:
+            
             #region binary search algorithm
             int[] numbers = { 1, 2, 5, 8, 9 };
             int target = 5;
@@ -516,7 +628,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 13 Task 13 ________________
             //Write a program in C# to implement a bubble sort algorithm.
-            Task13:
+            
             #region bubble sort algorithm
             int[] numbers1 = { 5, 2, 8, 9, 1 };
             for (int i = 0; i < numbers1.Length - 1; i++)
@@ -540,7 +652,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 14. Task 14 ________________
             //Write a program in C# to implement a linked list.
-            Task14:
+            
             #region linked list
             LinkedList list = new LinkedList();
             list.Insert(1);
@@ -551,7 +663,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 15. Task 16 ________________
             //Write a program in C# to find the second highest number in an array of integers.
-            Task15:
+            
             #region second highest number in an array of integers.
             int[] numbers2 = { 10, 20, 5, 15, 30 };
             int highest = int.MinValue;
@@ -574,7 +686,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 16. Task 16 ________________
             //Write a program in C# to count the number of occurrences (similar) of a character in a string.
-            Task16:
+            
             #region count similar occurent
             string str = "Hello World";
             char target1 = 'l';
@@ -591,7 +703,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 17. Task 17 ________________
             //Write a program in C# to check if two strings are anagrams of each other.
-            Task17:
+            
             #region check if two strings are anagrams
             string str1 = "listen";
             string str2 = "silent";
@@ -613,7 +725,7 @@ namespace _7_2_Array_Tasks
 
             //_________________ 18. Task 18 ________________
             //Write a program in C# to find the intersection of two arrays.
-            Task18:
+            
             #region Intersection of 2 Array
             int[] array2 = { 1, 2, 3, 4 };
             int[] array3 = { 3, 4, 5, 6 };
@@ -631,7 +743,6 @@ namespace _7_2_Array_Tasks
 
             //_________________ 19. Task 19 ________________
             //Write a program in C# to find the maximum sum subarray in an array of integers.
-            Task19:
             #region MyRegion
             int[] numbers3 = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
             int maxSoFar = numbers3[0];
@@ -662,7 +773,7 @@ namespace _7_2_Array_Tasks
             }
             #endregion
 
-            end:
+            
             Console.WriteLine("end");
 
         }

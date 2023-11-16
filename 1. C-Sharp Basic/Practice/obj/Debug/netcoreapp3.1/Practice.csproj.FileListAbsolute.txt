@@ -1,0 +1,14 @@
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.AssemblyReference.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
