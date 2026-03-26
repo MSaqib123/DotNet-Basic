@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dot Net\\2. CSharp OOP\\_1_Introduction\\_1_Introduction.csproj",
+      "projectUniqueName": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_1_Introduction\\_1_Introduction.csproj",
       "projectName": "_1_Introduction",
-      "projectPath": "E:\\Dot Net\\2. CSharp OOP\\_1_Introduction\\_1_Introduction.csproj",
+      "projectPath": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_1_Introduction\\_1_Introduction.csproj",
       "packagesPath": "C:\\Users\\m4357\\.nuget\\packages\\",
-      "outputPath": "E:\\Dot Net\\2. CSharp OOP\\_1_Introduction\\obj\\",
+      "outputPath": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_1_Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

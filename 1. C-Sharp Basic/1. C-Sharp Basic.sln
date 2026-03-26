@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_8_3_Array_Methods", "_8_3_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_9_Interview_Task", "_9_Interview_Task\_9_Interview_Task.csproj", "{F4C476C4-E017-438D-919B-669D4A0D90EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_Lifo_Fifo_", "_10_Lifo_Fifo_\_10_Lifo_Fifo_.csproj", "{CEAE5188-4A00-4776-9E69-3D42CC7BEED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_10_Lifo_Fifo_", "_10_Lifo_Fifo_\_10_Lifo_Fifo_.csproj", "{CEAE5188-4A00-4776-9E69-3D42CC7BEED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice", "Practice\Practice.csproj", "{22146A58-4B7D-45DF-BE73-EE7C1D1FD426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{CEAE5188-4A00-4776-9E69-3D42CC7BEED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEAE5188-4A00-4776-9E69-3D42CC7BEED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEAE5188-4A00-4776-9E69-3D42CC7BEED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22146A58-4B7D-45DF-BE73-EE7C1D1FD426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22146A58-4B7D-45DF-BE73-EE7C1D1FD426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22146A58-4B7D-45DF-BE73-EE7C1D1FD426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22146A58-4B7D-45DF-BE73-EE7C1D1FD426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

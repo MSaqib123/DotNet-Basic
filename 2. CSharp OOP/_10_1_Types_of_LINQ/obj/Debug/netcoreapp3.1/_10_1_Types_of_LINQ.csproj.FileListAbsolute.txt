@@ -26,3 +26,17 @@ F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LIN
 F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
 F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
 F:\E drive\My Learning\1. 1st Target\2. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.genruntimeconfig.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.exe
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.deps.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.runtimeconfig.dev.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\bin\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.AssemblyReference.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfoInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.AssemblyInfo.cs
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.csproj.CoreCompileInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\2. CSharp OOP\_10_1_Types_of_LINQ\obj\Debug\netcoreapp3.1\_10_1_Types_of_LINQ.genruntimeconfig.cache

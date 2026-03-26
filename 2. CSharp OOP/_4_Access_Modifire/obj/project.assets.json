@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\_4_Access_Modifire.csproj",
+      "projectUniqueName": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\_4_Access_Modifire.csproj",
       "projectName": "_4_Access_Modifire",
-      "projectPath": "E:\\Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\_4_Access_Modifire.csproj",
+      "projectPath": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\_4_Access_Modifire.csproj",
       "packagesPath": "C:\\Users\\m4357\\.nuget\\packages\\",
-      "outputPath": "E:\\Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\obj\\",
+      "outputPath": "G:\\My Learning\\2. My_Way\\3. .Net Core\\1. Dot Net\\2. CSharp OOP\\_4_Access_Modifire\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

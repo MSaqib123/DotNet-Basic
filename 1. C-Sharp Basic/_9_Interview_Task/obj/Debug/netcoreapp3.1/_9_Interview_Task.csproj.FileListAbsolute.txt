@@ -26,3 +26,17 @@ E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.
 E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.dll
 E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.pdb
 E:\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.genruntimeconfig.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.exe
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.deps.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.runtimeconfig.dev.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\bin\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.AssemblyReference.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfoInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.AssemblyInfo.cs
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.csproj.CoreCompileInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_9_Interview_Task\obj\Debug\netcoreapp3.1\_9_Interview_Task.genruntimeconfig.cache

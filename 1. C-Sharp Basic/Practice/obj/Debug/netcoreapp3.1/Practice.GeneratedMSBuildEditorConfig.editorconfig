@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = Practice
-build_property.ProjectDir = G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\Practice\
+build_property.ProjectDir = D:\Working\Plane_2\1. DotNet\1. dotnet csharp\1. C-Sharp Basic\Practice\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

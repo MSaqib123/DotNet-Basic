@@ -12,3 +12,17 @@ E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.csproj
 E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.dll
 E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.pdb
 E:\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.genruntimeconfig.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.exe
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.deps.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.runtimeconfig.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.runtimeconfig.dev.json
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\bin\Debug\netcoreapp3.1\_10_Lifo_Fifo_.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.csproj.AssemblyReference.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.AssemblyInfoInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.AssemblyInfo.cs
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.csproj.CoreCompileInputs.cache
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.dll
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.pdb
+G:\My Learning\2. My_Way\3. .Net Core\1. Dot Net\1. C-Sharp Basic\_10_Lifo_Fifo_\obj\Debug\netcoreapp3.1\_10_Lifo_Fifo_.genruntimeconfig.cache

@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = _3_Operator_Arth_As_Comp_Log
-build_property.ProjectDir = E:\1. C-Sharp Basic\_3_Operator_Arth_As_Comp_Log\
+build_property.ProjectDir = D:\Working\Plane_2\1. DotNet\1. dotnet csharp\1. C-Sharp Basic\_3_Operator_Arth_As_Comp_Log\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

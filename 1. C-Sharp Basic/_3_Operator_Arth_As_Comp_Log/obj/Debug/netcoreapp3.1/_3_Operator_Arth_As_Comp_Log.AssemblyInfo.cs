@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_3_Operator_Arth_As_Comp_Log")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d6508fa621c8d48b183c7c3ce6a08ded45ef503")]
 [assembly: System.Reflection.AssemblyProductAttribute("_3_Operator_Arth_As_Comp_Log")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_3_Operator_Arth_As_Comp_Log")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
